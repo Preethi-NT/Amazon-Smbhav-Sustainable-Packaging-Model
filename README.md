@@ -22,7 +22,8 @@ The system will provide:
 - **Alternative Locations** if the preferred packaging material is unavailable in the requested location.  
 ---  
 ## Overview  
-The **Sustainable Packaging Recommender** is a machine learning model developed for **Amazon Smbhav 2024**, designed to suggest eco-friendly packaging materials based on product type and location. The model helps businesses choose sustainable packaging solutions by analyzing factors such as recyclability, biodegradability, and carbon footprint. If a recommended packaging material is not available in the specified location, the model suggests the nearest available location, ensuring efficient sourcing while promoting sustainability.
+The Sustainable Packaging Recommender is a machine learning model developed for Amazon Smbhav 2024, designed to suggest eco-friendly packaging materials based on product type and location. The model helps businesses choose sustainable packaging solutions by analyzing factors such as recyclability, biodegradability, and carbon footprint. If a recommended packaging material is not available in the specified location, the model suggests the nearest available location, ensuring efficient sourcing while promoting sustainability.
+
 ---  
 ## Dataset  
 The model is trained on a comprehensive dataset that includes:  
